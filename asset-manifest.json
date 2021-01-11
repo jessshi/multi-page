@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jessshi/multi-page.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/jessshi/multi-page.git/static/js/main.b0e1d793.chunk.js",
+    "main.js.map": "/jessshi/multi-page.git/static/js/main.b0e1d793.chunk.js.map",
+    "runtime-main.js": "/jessshi/multi-page.git/static/js/runtime-main.5a1df8a2.js",
+    "runtime-main.js.map": "/jessshi/multi-page.git/static/js/runtime-main.5a1df8a2.js.map",
+    "static/js/2.a2c30492.chunk.js": "/jessshi/multi-page.git/static/js/2.a2c30492.chunk.js",
+    "static/js/2.a2c30492.chunk.js.map": "/jessshi/multi-page.git/static/js/2.a2c30492.chunk.js.map",
+    "static/js/3.2addbfff.chunk.js": "/jessshi/multi-page.git/static/js/3.2addbfff.chunk.js",
+    "static/js/3.2addbfff.chunk.js.map": "/jessshi/multi-page.git/static/js/3.2addbfff.chunk.js.map",
+    "index.html": "/jessshi/multi-page.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/jessshi/multi-page.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a2c30492.chunk.js.LICENSE.txt": "/jessshi/multi-page.git/static/js/2.a2c30492.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a1df8a2.js",
+    "static/js/2.a2c30492.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b0e1d793.chunk.js"
+  ]
+}
